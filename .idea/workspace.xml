@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="445a9636-86cb-4319-a6ac-7120e954889c" name="Changes" comment="Add Initial App With Navbar, Home and Auth">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/unplugged/@napi-rs-canvas-win32-x64-msvc-npm-0.1.88-0cd2919512/node_modules/@napi-rs/canvas-win32-x64-msvc/.ready" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/unplugged/@napi-rs-canvas-win32-x64-msvc-npm-0.1.88-0cd2919512/node_modules/@napi-rs/canvas-win32-x64-msvc/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/unplugged/@napi-rs-canvas-win32-x64-msvc-npm-0.1.88-0cd2919512/node_modules/@napi-rs/canvas-win32-x64-msvc/icudtl.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/unplugged/@napi-rs-canvas-win32-x64-msvc-npm-0.1.88-0cd2919512/node_modules/@napi-rs/canvas-win32-x64-msvc/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.yarn/unplugged/@napi-rs-canvas-win32-x64-msvc-npm-0.1.88-0cd2919512/node_modules/@napi-rs/canvas-win32-x64-msvc/skia.win32-x64-msvc.node" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/ATS/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/accordion/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/details/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/file-uploader/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/nav-bar/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/resume-card/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/score-circle/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/score-gauge/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/summary/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/constants/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/lib/pdf2img.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/lib/puter.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/lib/utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/auth/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/home/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/resume/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/upload/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/wipe/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/types/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/types/puter.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/ats-bad.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/ats-good.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/ats-warning.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/back.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/cross.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/info.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/pin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/warning.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-auth.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-main.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg-small.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/pdf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/resume-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/resume-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/resume-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/resume-scan-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/resume-scan.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/pdf.worker.min.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vercel.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pnp.cjs" beforeDir="false" afterPath="$PROJECT_DIR$/.pnp.cjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/install-state.gz" beforeDir="false" afterPath="$PROJECT_DIR$/.yarn/install-state.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/root.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/root.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/home.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/welcome/logo-dark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/welcome/logo-light.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/welcome/welcome.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Jushiro012623&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Jushiro012623/smart-resume-ai-analyzer.git&quot;,
+    &quot;accountId&quot;: &quot;3a04c0af-8540-492d-b755-3b5bd24e1e4f&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="AISelfReview" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="38Y0SUyzWqEx2svlGKLZ7y6qLz9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Pisopay - Ivan/Desktop/smart-analyzer&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.LLMThirdPartyAiProvidersConfigurable&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2025.2.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pisopay - Ivan\Desktop\smart-analyzer\app\routes\home" />
+      <recent name="C:\Users\Pisopay - Ivan\Desktop\smart-analyzer\public" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.26830.93" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="445a9636-86cb-4319-a6ac-7120e954889c" name="Changes" comment="" />
+      <created>1768961196928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768961196928</updated>
+      <workItem from="1768961199706" duration="21655000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Initial App With Navbar, Home and Auth" />
+    <MESSAGE value="Added Pages" />
+    <MESSAGE value="Initial commit from create-react-router" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app/constants/index.ts</url>
+          <line>1</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app/lib/pdf2img.ts</url>
+          <line>69</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app/routes/upload/index.tsx</url>
+          <line>73</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
